@@ -1,0 +1,13 @@
+C:\Users\Aerevia\source\repos\SKryll\bin\Release\netcoreapp3.1\SKryll.deps.json
+C:\Users\Aerevia\source\repos\SKryll\bin\Release\netcoreapp3.1\SKryll.dll
+C:\Users\Aerevia\source\repos\SKryll\bin\Release\netcoreapp3.1\SKryll.pdb
+C:\Users\Aerevia\source\repos\SKryll\obj\Release\netcoreapp3.1\SKryll.AssemblyInfoInputs.cache
+C:\Users\Aerevia\source\repos\SKryll\obj\Release\netcoreapp3.1\SKryll.AssemblyInfo.cs
+C:\Users\Aerevia\source\repos\SKryll\obj\Release\netcoreapp3.1\SKryll.csproj.CoreCompileInputs.cache
+C:\Users\Aerevia\source\repos\SKryll\obj\Release\netcoreapp3.1\SKryll.dll
+C:\Users\Aerevia\source\repos\SKryll\obj\Release\netcoreapp3.1\SKryll.pdb
+C:\Users\Aerevia\source\repos\SKryll\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aerevia\source\repos\SKryll\bin\Release\netcoreapp3.1\WebDriver.dll
+C:\Users\Aerevia\source\repos\SKryll\bin\Release\netcoreapp3.1\Serilog.dll
+C:\Users\Aerevia\source\repos\SKryll\obj\Release\netcoreapp3.1\SKryll.csproj.CopyComplete
+C:\Users\Aerevia\source\repos\SKryll\obj\Release\netcoreapp3.1\SKryll.csprojAssemblyReference.cache
