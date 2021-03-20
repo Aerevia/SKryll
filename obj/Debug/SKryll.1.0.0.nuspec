@@ -9,6 +9,7 @@
     <description>Package Description</description>
     <dependencies>
       <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Selenium.Support" version="3.141.0" exclude="Build,Analyzers" />
         <dependency id="Selenium.WebDriver" version="3.141.0" exclude="Build,Analyzers" />
         <dependency id="Selenium.WebDriver.ChromeDriver" version="89.0.4389.2300" exclude="Build,Analyzers" />
         <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />

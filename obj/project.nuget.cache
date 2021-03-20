@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BW1scZhaT0HnMnap6ipoS2T3tM992hWbI+Kt23gy6uonChcNbzisp9NEoRQqufSLkgeKR9c83cF5inuJJExSsQ==",
+  "dgSpecHash": "aO92kw4vd+/cLW/QbtkMdYNIj6+26lpA+I6XAI5OSwcNwCQ/siQw0Lc03lm8gq+OIyqgSSTiMeGX0VjVf5pv/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aerevia\\source\\repos\\SKryll\\SKryll.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aerevia\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
     "C:\\Users\\Aerevia\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
     "C:\\Users\\Aerevia\\.nuget\\packages\\selenium.webdriver.chromedriver\\89.0.4389.2300\\selenium.webdriver.chromedriver.89.0.4389.2300.nupkg.sha512",
     "C:\\Users\\Aerevia\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",

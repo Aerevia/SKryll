@@ -6,6 +6,7 @@ namespace SKryll
 {
     public class Strategy
     {
+        #region properties
         public string Title { get; set; }
         public string Alt { get; set; }
         public string Fuel { get; set; }
@@ -46,7 +47,7 @@ namespace SKryll
         }
 
         public IWebElement WebElement { get; set; }
-        
+        #endregion
 
         public Strategy()
         {
